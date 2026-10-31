@@ -6,6 +6,6 @@ Cartesia Sonic TTS with secure server proxy.
 
 ```bash
 npm install
-# .env এ CARTESIA_API_KEY দিন
+# .env এ sk_car_aj7ChbeakQpu1Pesa9fGto দিন
 npm start
 # → http://localhost:3000
